@@ -1,0 +1,12 @@
+read file
+convert to lowerCase
+get Index of words // if existing
+if not existing, 
+	- add word to myWords then,
+	- add count to myFreqs
+
+// every word added will have its corresponding count. hence, their index must be the same.
+
+if its already existing,
+	- get value of count using index
+	- increment value
