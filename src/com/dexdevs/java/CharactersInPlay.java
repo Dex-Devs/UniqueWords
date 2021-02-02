@@ -1,4 +1,4 @@
-package org.dexdevs;
+package com.dexdevs.java;
 
 import edu.duke.FileResource;
 import java.util.ArrayList;
